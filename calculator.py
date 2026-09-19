@@ -47,3 +47,7 @@ def calculator():
             print(f"Result: {a} / {b} = {divide(a, b)}\n")
 
 calculator()
+<<<<<<< Updated upstream
+=======
+print("hello")
+>>>>>>> Stashed changes
